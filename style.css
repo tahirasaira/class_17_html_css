@@ -1,0 +1,28 @@
+#p1{
+    color:brown;
+    font-family:'Kanit' ;
+
+}
+#p2{
+    color:blue;
+    font-family:'kanit' ;
+}
+#p3{
+    color:blueviolet;
+    font-family: 'oswald';
+
+}
+#p4{
+    color: black;
+    font-family: 'oswald';
+    background-color: aqua;
+
+}
+.fa-youtube{
+    color:red;
+    font-size: 60px;
+}
+.fa-facebook{
+    color:blue;
+    font-size: 49px;
+}
